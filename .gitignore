@@ -1,0 +1,4 @@
+env
+data.csv
+outdata.csv
+__pycache__
