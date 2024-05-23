@@ -23,3 +23,6 @@ ch.analyze_client_behavior()
 - print(ch.analyze_client_behavior())
 - ch.save_processed_data(ch.analyze_client_behavior())
 
+## 8 Запуск
+<code>py main.py</code>
+
